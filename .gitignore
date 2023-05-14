@@ -1,3 +1,7 @@
 out
 .idea
+<<<<<<< HEAD
 *.iml
+=======
+*.iml
+>>>>>>> 0fbd08c (git ignore)
